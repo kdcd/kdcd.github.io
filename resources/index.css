@@ -1,0 +1,79 @@
+header {
+  background-color: rgba(175, 238, 238, 0.5); 
+  border: 1px solid #20B2AA; 
+  font-family: Helvetica;
+    font-size: 60px;
+    font-weight: bold;
+    color: #4682B4;
+    text-align: center;
+  border-radius: 10px;
+  opacity: 0.9;
+}
+
+
+div 
+h1 {
+  background-color: #AFEEEE;
+  border: 1px solid #20B2AA;
+  text-align: center;
+  font-family: Helvetica;
+  color: rgba(24, 71, 109);
+  border-radius: 10px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.5;
+}
+
+
+
+th {
+  border-radius: 10px;
+  border: 1px solid #ADD8E6;
+  background-color: #008B8B;
+  color: white;
+  font-size: 18px;
+}
+
+td {
+  border-bottom: 1px solid #5F9EA0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  font-size: 16px;
+}
+
+table {
+  background-color: rgba(70, 130, 180, 0.5);
+  border: 1px solid #20B2AA;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  opacity: 0.7;
+}
+
+
+body {
+  background-image: url(./images/gory-noch-vecher-nebo-tuchi-liod-chelovek.jpg);
+}
+
+button {
+  padding: 5px 5px;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: rgba(0, 128, 128, 0.5);
+  border: 1px solid #20B2AA;
+  border-radius: 15px;
+}
+
+button:active {
+  background-color: rgba(70, 130, 180, 0.5);
+  transform: translateY(4px);
+}
+
